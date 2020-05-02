@@ -1,3 +1,9 @@
 comit 22
 
+<<<<<<< HEAD
 test 2 squash
+=======
+test 2 squash
+
+Master Commit M1
+>>>>>>> 73240cead6d8fd00b7a4aa11678bffbd14bed172
